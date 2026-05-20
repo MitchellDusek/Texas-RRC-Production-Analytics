@@ -59,7 +59,7 @@ The PDQ Dump is a complete export of the RRC's Production Data and Historical Le
 | `gp_district` | 14 | Reference |
 | `gp_date_range_cycle` | 1 | Reference |
 
-Three additional derived views aggregate from `og_lease_cycle` at the district, field, and operator level. See [`/schema`](./schema/README.md) for full detail.
+Three additional derived views aggregate from `og_lease_cycle` at the district, field, and operator level. See [`/schema`](./Schema/README.md) for full detail.
 
 ---
 
